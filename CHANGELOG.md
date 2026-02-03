@@ -2,6 +2,7 @@
 
 * [#18](https://github.com/mongoid/mongoid-shell/pull/18): Migrate Danger to danger-pr-comment workflow - [@dblock](https://github.com/dblock).
 * Your contribution here.
+* Migrated CI from Travis CI to GitHub Actions - [@dblock](https://github.com/dblock).
 
 ### 0.4.6 (12/29/2017)
 
